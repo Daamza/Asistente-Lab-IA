@@ -3,4 +3,4 @@ gspread
 oauth2client
 pytesseract
 Pillow
-openai
+openai==0.28
