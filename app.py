@@ -10,7 +10,7 @@ import pytesseract
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
-openai.api_key = "sk-reemplazar-tu-clave-real-aca-123456"
+openai.api_key = "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"
 SPREADSHEET_NAME = "Turnos_Laboratorio"
 GPT_MODEL = "gpt-3.5-turbo"
 app = Flask(__name__)
