@@ -1,6 +1,0 @@
-flask
-gspread
-oauth2client
-pytesseract
-Pillow
-openai
