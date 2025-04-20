@@ -12,7 +12,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 # Config
 openai.api_key = os.getenv("OPENAI_API_KEY")
 SPREADSHEET_NAME = "Turnos_ALIA"
-GPT_MODEL = "gpt-4"
+GPT_MODEL = "gpt-4-1106-preview"
 app = Flask(__name__)
 
 # Google Sheets
